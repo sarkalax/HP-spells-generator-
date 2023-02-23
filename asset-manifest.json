@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HP-spells-generator-/static/css/main.f4019089.css",
+    "main.css": "/HP-spells-generator-/static/css/main.650c67ac.css",
     "main.js": "/HP-spells-generator-/static/js/main.91e42f2c.js",
     "static/media/kotlik.png": "/HP-spells-generator-/static/media/kotlik.a9cb35e8907e8bb76def.png",
     "static/media/bubble.png": "/HP-spells-generator-/static/media/bubble.d5fba5ef132ee28c43ae.png",
     "index.html": "/HP-spells-generator-/index.html",
-    "main.f4019089.css.map": "/HP-spells-generator-/static/css/main.f4019089.css.map",
+    "main.650c67ac.css.map": "/HP-spells-generator-/static/css/main.650c67ac.css.map",
     "main.91e42f2c.js.map": "/HP-spells-generator-/static/js/main.91e42f2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4019089.css",
+    "static/css/main.650c67ac.css",
     "static/js/main.91e42f2c.js"
   ]
 }
