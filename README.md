@@ -1,6 +1,6 @@
 REACT HP Spell Generator
 
-[Open](https://sarysx.github.io/HP-spells-generator-/)
+[Open](https://sarkalax.github.io/HP-spells-generator-/)
 
 Fetch dat
 
